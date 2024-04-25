@@ -11,12 +11,11 @@ h1,
 h2 {
 	text-align: center;
 	width: 50%;
-	border: 2px solid yello;
 	color: hsl(229, 6%, 66%);
 }
 
 h2 {
-	width: 90%;
+	width: 80%;
 	font-size: 20px;
 	line-height: 30px;
 	margin-bottom: 0;
@@ -106,7 +105,6 @@ main {
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-column-gap: 20px;
 	align-items: center;
-	border: 2px solid re;
 	grid-auto-flow: row;
 	width: 70%;
 }
@@ -127,9 +125,8 @@ main {
 }
 
 .first-cont {
-	width: 50%;
+	width: 70%;
 	margin-bottom: 80px;
-	border: 2px solid gree;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -140,7 +137,6 @@ main {
 .wrapper2,
 .wrapper3,
 .wrapper4 {
-	border: 2px solid blu;
 	width: 100%;
 	background-color: white;
 	border-radius: 10px;
@@ -185,7 +181,6 @@ main {
 	flex-direction: column;
 	align-items: start;
 	width: 100%;
-	border: 2px solid cya;
 }
 
 .right-align {
@@ -193,5 +188,4 @@ main {
 	flex-direction: column;
 	align-items: end;
 	width: 100%;
-	border: 2px solid brow;
 }
